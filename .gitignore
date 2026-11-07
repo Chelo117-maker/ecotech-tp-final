@@ -1,0 +1,15 @@
+# Entorno virtual
+tpfinal/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Base de datos local de Django
+db.sqlite3
+
+# Configuración del editor
+.vscode/
+
+# Variables de entorno
+.env
