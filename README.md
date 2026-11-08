@@ -89,7 +89,7 @@ python manage.py test sustentabilidad
 
 ## Documentación
 
-La descripción detallada de módulos, clases y funciones está en [`docs/documentacion_tecnica.md`](docs/documentacion_tecnica.md).
+La descripción detallada de módulos, clases y funciones está en [`docs/documentacion_tecnica.pdf`](docs/documentacion_tecnica.pdf).
 
 ## Autor
 
